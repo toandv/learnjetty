@@ -17,7 +17,7 @@ import java.util.Date;
 /**
  * Created by toan on 3/3/17.
  */
-public class JettySerer {
+public class JettyServer {
 
     public static void main(String[] args) throws Exception {
 
